@@ -25,9 +25,12 @@
   [spencernyaenya@gmail.com](mailto:spencernyaenya@gmail.com)
 
     </td>
-    <td valign="top" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" alt="Spencer Nyaenya Banner" />
-    </td>
+  <td valign="top" align="center" style="height: 100%;">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" 
+       style="height: 75vh; object-fit: cover;" 
+       alt="Spencer Nyaenya Banner" />
+</td>
+
   </tr>
 </table>
 
