@@ -1,46 +1,69 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Spencer Nyaenya Banner" />
-</p>
+<!-- Banner + About Me (Flex Style) -->
+<table>
+  <tr>
+    <td width="60%">
+      
+## 👋 Hello there, I’m Spencer Nyaenya
 
-<h1 align="center">👋 Hello there, I’m Spencer Nyaenya</h1>
-
-<p align="center">
-  💻 Full-Stack Developer | 🤖 AI Engineer | ☁️ Cloud Practitioner  
-</p>
-
----
-
-## 💡 About Me
+💻 Full-Stack Developer | 🤖 AI Engineer | ☁️ Cloud Practitioner  
 
 I’m a dynamic full-stack developer with deep experience in building **AI-powered applications**, **RAG-based chatbots**, and **cloud-native solutions**.  
 With a strong foundation in **prompt engineering**, **NLP**, and **machine learning**, I build intelligent systems that solve real-world problems.
 
 I’m currently focusing on **cloud development with Azure**, deploying full-stack apps and AI models using Docker and Kubernetes.
 
+  </td>
+  <td>
+    <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" alt="Spencer Nyaenya Banner" />
+  </td>
+  </tr>
+</table>
+
 ---
 
 ## 🚀 Tech Stack & Tools
 
-### Languages & Frameworks
-![Python](https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png)
-![TypeScript](https://www.datocms-assets.com/48401/1628645197-learn-typescript.png)
-![JavaScript](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfQ4MH3vLA6l72ULn3Up_6undPBcXoERMFcA&s)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+### ⚙️ Languages & Frameworks
 
-### Databases & Platforms
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/-Pinecone-0175C2?style=flat&logo=pinecone&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" width="60"><br/>Python</td>
+    <td align="center"><img src="https://www.datocms-assets.com/48401/1628645197-learn-typescript.png" width="60"><br/>TypeScript</td>
+    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfQ4MH3vLA6l72ULn3Up_6undPBcXoERMFcA&s" width="60"><br/>JavaScript</td>
+    <td align="center"><img src="https://d2ms8rpfqc4h24.cloudfront.net/feature_image_152a3e6669.jpg" width="60"><br/>Node.js</td>
+    <td align="center"><img src="https://framerusercontent.com/images/N0xefN2fE6CCF4G2YhAg5exTHX8.png" width="60"><br/>React</td>
+    <td align="center"><img src="https://cdn.filestackcontent.com/8MbtJ4hTAaOk3KPcptqZ" width="60"><br/>Next.js</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/51070104/268566349-c41e65a5-2ab9-4b54-8cbc-350ab6da746c.png" width="60"><br/>Flask</td>
+  </tr>
+</table>
 
-### Tools & Infrastructure
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Flowise](https://img.shields.io/badge/-Flowise-00C896?style=flat&logo=openai&logoColor=white)
+---
+
+### 🗃️ Databases & Platforms
+
+<table>
+  <tr>
+    <td align="center"><img src="https://lh5.googleusercontent.com/NpCFEToPJTrK4VZ7i4-ggNHgWfOGnLYh7S059c25TOCZunHJv8ljPOHIjnoWB_Y1cxCIQ6dbXf-x4J9G2SXvuUEoo2C3r2tWj3qekRyZRQhk0JT-vGtnVk5oOEFGcRn8hQ-I3CH-5FZXgPJFlG7-4pI" width="60"><br/>MongoDB</td>
+    <td align="center"><img src="https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6b6868a8-4be9-4b05-9e3f-ef45aeaedf91_700x500.png" width="60"><br/>Pinecone</td>
+    <td align="center"><img src="https://miro.medium.com/v2/resize:fit:536/1*2ofNU5JgKwcqT_wORFEK_w.png" width="60"><br/>Chroma</td>
+  </tr>
+</table>
+
+---
+
+### 🧠 AI & ML Models
+
+<table>
+  <tr>
+    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s" width="60"><br/>OpenAI</td>
+    <td align="center"><img src="https://www.ciscoinvestments.com/assets/logos/groq-logo.png" width="80"><br/>Groq</td>
+    <td align="center"><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/033165ef-fb24-40fd-9347-d1313161a50c/Frame_118.png" width="80"><br/>Hugging Face</td>
+    <td align="center"><img src="https://d7umqicpi7263.cloudfront.net/img/product/7362011a-91a9-4db0-9cbe-b4f760536107.png" width="60"><br/>Cohere</td>
+  </tr>
+</table>
+
+---
 
 ---
 
@@ -68,15 +91,14 @@ I’m currently focusing on **cloud development with Azure**, deploying full-sta
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spencers20&show_icons=true&theme=tokyonight" />
-  ### 🧑‍💻 Most Used Languages
+
+ ### 🧑‍💻 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spencers20&layout=compact&theme=tokyonight&hide=html" alt="Most Used Languages" />
 </p>
 
-</p>
+
 
 ---
 
