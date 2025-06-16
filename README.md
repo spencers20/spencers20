@@ -26,11 +26,15 @@
 
     </td>
   <td valign="top" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Spencer Nyaenya Banner" />
+      <img src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="100%" alt="Spencer Nyaenya Banner" />
     </td>
 
   </tr>
 </table>
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spencers20&layout=compact&theme=tokyonight&hide=html" alt="Most Used Languages" />
+</p>
 
 
 ---
@@ -112,15 +116,6 @@
 
 ---
 
-
-## 📈 GitHub Stats
-
-
- ### 🧑‍💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spencers20&layout=compact&theme=tokyonight&hide=html" alt="Most Used Languages" />
-</p>
 
 
 
