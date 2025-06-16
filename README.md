@@ -70,6 +70,12 @@ I’m currently focusing on **cloud development with Azure**, deploying full-sta
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=spencers20&show_icons=true&theme=tokyonight" />
+  ### 🧑‍💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spencers20&layout=compact&theme=tokyonight&hide=html" alt="Most Used Languages" />
+</p>
+
 </p>
 
 ---
