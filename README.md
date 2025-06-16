@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/spencers20/spencers20/blob/main/assets/banner.png" alt="Spencer Nyaenya Banner" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Spencer Nyaenya Banner" />
 </p>
 
 <h1 align="center">👋 Hello there, I’m Spencer Nyaenya</h1>
@@ -23,9 +23,9 @@ I’m currently focusing on **cloud development with Azure**, deploying full-sta
 ## 🚀 Tech Stack & Tools
 
 ### Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png)
+![TypeScript](https://www.datocms-assets.com/48401/1628645197-learn-typescript.png)
+![JavaScript](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfQ4MH3vLA6l72ULn3Up_6undPBcXoERMFcA&s)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
