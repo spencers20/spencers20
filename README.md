@@ -1,17 +1,38 @@
 <!-- Banner Image -->
-<!-- Banner + About Me (Flex Style) -->
+<h1 align="center">👋 Hello there, I’m Spencer Nyaenya</h1>
+
+<p align="center">
+  💻 Full-Stack Developer | 🤖 AI Engineer | ☁️ Cloud Practitioner  
+</p>
+
 <table>
   <tr>
-    <td width="60%">
-      
-## 👋 Hello there, I’m Spencer Nyaenya
+    <td width="50%">
+    ### 👨‍💻 About Me
+  - 🔭 **Full-Stack Developer & AI Engineer**  
+       Experienced in building intelligent systems, full-stack web/mobile apps, and RAG bots.
 
-💻 Full-Stack Developer | 🤖 AI Engineer | ☁️ Cloud Practitioner  
+  - 🌍 **Based in Nairobi, Kenya 🇰🇪**  
+       Passionate about using tech to solve real-world challenges across Africa.
+    
+  - 🌱 **Currently Exploring**  
+       Cloud-native development (Azure), scalable AI deployments, and LLMs (Groq, OpenAI, Cohere, HuggingFace).
 
-I’m a dynamic full-stack developer with deep experience in building **AI-powered applications**, **RAG-based chatbots**, and **cloud-native solutions**.  
-With a strong foundation in **prompt engineering**, **NLP**, and **machine learning**, I build intelligent systems that solve real-world problems.
+  - 🌱 **📈 Outside of Work**  
+       I experiment with prompts, contribute to open-source, and study cloud architecture best practices.
 
-I’m currently focusing on **cloud development with Azure**, deploying full-stack apps and AI models using Docker and Kubernetes.
+  - 🎯 **Goals**  
+     - Build production-grade AI systems.  
+     - Scale full-stack apps using modern DevOps tools.  
+     - Help businesses unlock the power of LLMs.
+
+  - 📫 **Reach Me At**  
+      [spencernyaenya@gmail.com](mailto:spencernyaenya@gmail.com)
+
+    
+
+
+    
 
   </td>
   <td>
@@ -65,14 +86,37 @@ I’m currently focusing on **cloud development with Azure**, deploying full-sta
 
 ---
 
+### ☁️ Cloud & Infrastructure
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="60" alt="Azure"/><br/>
+      Azure
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" alt="Docker"/><br/>
+      Docker
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="60" alt="Kubernetes"/><br/>
+      Kubernetes
+    </td>
+  </tr>
+</table>
+
+
+---
+
 ---
 
 ## 🧠 What I Do
 
-- 🔧 **Build AI Chatbots & RAG Systems** using LangChain, Pinecone, and Flowise.
-- 🧪 **Design Prompt Systems** that produce reliable, high-quality outputs from LLMs.
-- 📊 **Analyze Data** and build ML models using Python, Pandas, and Scikit-learn.
-- ☁️ **Deploy Web & AI Solutions** on Azure with Docker, Kubernetes, and CI/CD.
+- 🔧 **Build AI Chatbots & RAG Systems** using LangChain,and Flowise.
+- 🧪 **Engineer Prompts** that produce reliable, high-quality outputs from LLMs.
+- 📊 **Analyze and visualize Data**  using PowerBI, Python, Pandas, and Scikit-learn.
+- ☁️ **Deploy and Manage Web & AI Solutions** on Azure with Docker, Kubernetes, and CI/CD.
+- 🧩 **Develop and Code Full-Stack Software Systems** from backend APIs to responsive frontend
 
 ---
 
@@ -100,15 +144,6 @@ I’m currently focusing on **cloud development with Azure**, deploying full-sta
 
 
 
----
-
-## 📫 Contact Me
-
-- 📧 Email: [spencer.nyaenya@example.com](mailto:spencer.nyaenya@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/spencernyaenya](https://linkedin.com/in/spencernyaenya)  
-- 🌐 Portfolio: [www.spencernyaenya.dev](#)
-
----
 
 > “Combining code with intelligence — one prompt at a time.”  
 > *Let’s build something smart together!*
