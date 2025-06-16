@@ -26,7 +26,7 @@
 
     </td>
   <td valign="top" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%" alt="Spencer Nyaenya Banner" />
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Spencer Nyaenya Banner" />
     </td>
 
   </tr>
@@ -112,18 +112,6 @@
 
 ---
 
-## 📁 Featured Projects
-
-### 🔹 [RAG Chatbot Platform](https://github.com/spencers20/vectorstores)
-> A conversational agent powered by vector search and LangChain. Uses Pinecone, Flowise, and Next.js for a seamless UX.
-
-### 🔹 [AI Prompt Templates Toolkit](#)
-> Collection of reusable prompt frameworks with prompt tuning patterns. Ideal for fast LLM development.
-
-### 🔹 [Azure ML Web Hosting Demo](#)
-> Flask-based ML model deployment with full Azure integration including blob storage and monitoring.
-
----
 
 ## 📈 GitHub Stats
 
@@ -137,12 +125,6 @@
 
 
 
-> “Combining code with intelligence — one prompt at a time.”  
-> *Let’s build something smart together!*
-
----
-
-<!-- Optional Footer Image -->
-<p align="center">
-  <img src="https://github.com/spencers20/spencers20/blob/main/assets/footer.png" alt="footer" />
-</p>
+> “Behind every smart system is a simple goal:  
+> make tech work for people — not just around them.  
+> That’s why I build solutions that *deliver value*,*not just features*.”
