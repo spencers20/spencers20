@@ -7,39 +7,30 @@
 
 <table>
   <tr>
-    <td width="50%">
-    ### 👨‍💻 About Me
-  - 🔭 **Full-Stack Developer & AI Engineer**  
-       Experienced in building intelligent systems, full-stack web/mobile apps, and RAG bots.
+    <td width="50%" valign="top">
 
-  - 🌍 **Based in Nairobi, Kenya 🇰🇪**  
-       Passionate about using tech to solve real-world challenges across Africa.
-    
-  - 🌱 **Currently Exploring**  
-       Cloud-native development (Azure), scalable AI deployments, and LLMs (Groq, OpenAI, Cohere, HuggingFace).
+- 🔭 **Full-Stack Developer & AI Engineer**  
+  Experienced in building intelligent systems, full-stack web/mobile apps, and RAG bots.
 
-  - 🌱 **📈 Outside of Work**  
-       I experiment with prompts, contribute to open-source, and study cloud architecture best practices.
+- 🌍 **Based in Nairobi, Kenya 🇰🇪**  
+  Passionate about using tech to solve real-world challenges across Africa.
 
-  - 🎯 **Goals**  
-     - Build production-grade AI systems.  
-     - Scale full-stack apps using modern DevOps tools.  
-     - Help businesses unlock the power of LLMs.
+- 🌱 **Currently Exploring**  
+  Cloud-native development (Azure), scalable AI deployments, and LLMs (Groq, OpenAI, Cohere, HuggingFace).
 
-  - 📫 **Reach Me At**  
-      [spencernyaenya@gmail.com](mailto:spencernyaenya@gmail.com)
+- 📈 **Outside of Work**  
+  I experiment with prompts, contribute to open-source, and study cloud architecture best practices.
 
-    
+- 📫 **Reach Me At**  
+  [spencernyaenya@gmail.com](mailto:spencernyaenya@gmail.com)
 
-
-    
-
-  </td>
-  <td>
-    <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" alt="Spencer Nyaenya Banner" />
-  </td>
+    </td>
+    <td valign="top" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" alt="Spencer Nyaenya Banner" />
+    </td>
   </tr>
 </table>
+
 
 ---
 
